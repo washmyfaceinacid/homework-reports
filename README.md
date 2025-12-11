@@ -1,6 +1,6 @@
 # Homework reports
 This is a repository of my homework reports.
 Labs done:
-AZ-104 (compressed, so quality of screenshots is a little bit low)
-Azure Plural Sight Full Labs
-Terraform Getting Started Report
+1. AZ-104 (compressed, so quality of screenshots is a little bit low)
+2. Azure Plural Sight Full Labs
+3. Terraform Getting Started Report
